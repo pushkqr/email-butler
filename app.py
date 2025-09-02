@@ -52,7 +52,7 @@ with gr.Blocks(title="📧 Email Butler") as app:
     gr.Markdown(
         """
         <p style="text-align:center; font-size:12px; color:#888; margin-top:10px;">
-        Powered by your Email Manager AI.
+        Powered by your Email Butler AI.
         </p>
         """
     )
