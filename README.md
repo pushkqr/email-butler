@@ -52,7 +52,7 @@ LLM_API_KEY=your_api_key
 BASE_URL=your_api_base_url
 SMTP_SERVER=smtp.example.com
 SMTP_EMAIL=your_email@example.com
-SMTP_PASSWORD=your_email_password
+SMTP_PASSWORD=your_email_app_key/password
 ```
 
 ## Usage
