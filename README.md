@@ -13,7 +13,7 @@ Email Butler is a professional AI-powered email assistant that helps you draft, 
 ## Project Structure
 
 ```
-email-daemon/
+email-butler/
 ├── agent.py          # Defines Agents, Tools, and EmailContent model
 ├── tools.py          # Optional: Separate tools (send_email, etc.)
 ├── prompts.py        # Centralized prompts for AI agents
