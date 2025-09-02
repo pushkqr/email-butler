@@ -32,10 +32,10 @@ def chat_wrapper(message, history):
     return asyncio.run(chat_with_agent(message, history))
 
 
-with gr.Blocks(title="📧 Email Agent") as app:
+with gr.Blocks(title="📧 Email Butler") as app:
     gr.Markdown(
         """
-        <h1 style="text-align:center; color:#2A3F54;">📧 Email Agent</h1>
+        <h1 style="text-align:center; color:#2A3F54;">📧 Email Butler</h1>
         <p style="text-align:center; font-size:14px; color:#555;">
         Draft and send professional emails effortlessly. Your AI assistant will guide you step by step.
         </p>
